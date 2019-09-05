@@ -1,4 +1,4 @@
-package org.teatez.grand-tour
+package org.teatez.grand
 
 import io.ktor.application.*
 import io.ktor.response.*
